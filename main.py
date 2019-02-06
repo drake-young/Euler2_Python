@@ -81,7 +81,7 @@ def problem_2_method_a( maximum=4000000 ):
 #   Only calculation is timed, not result output
 def problem_2_method_b( maximum=4000000 ):
     # Print Problem Context (unnecessary)
-    print( "Project Euler Problem 2 -- Method 1 (Closed-Form Formula)" )
+    print( "Project Euler Problem 2 -- Method 2 (Sequence Computation)" )
 
     # Prepare Variables
     start_time  =  default_timer( )  # Start Timer
