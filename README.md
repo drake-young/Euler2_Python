@@ -19,6 +19,6 @@ See also the list of [contributors](https://github.com/drake-young/Euler2_Python
 ## Additional Links and References
 
 * [Project Euler Homepage](https://projecteuler.net/about)
-* [Project Euler Problem 2](https://projecteuler.net/problem=1)
+* [Project Euler Problem 2](https://projecteuler.net/problem=2)
 * [Closed-Form Fibonacci Formula Involving Golden Ratio](https://en.wikipedia.org/wiki/Fibonacci_number)
 * [.gitignore template](https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore)
